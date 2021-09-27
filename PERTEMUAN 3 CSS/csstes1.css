@@ -1,0 +1,14 @@
+
+.tag {
+	  border-radius: 50%;
+	  width: 200px;
+	  margin-left: 400px
+	}
+
+h1.pertama{
+		margin-left: 250px;
+	}
+
+ul.sosmed li{
+		display: inline;
+	}
